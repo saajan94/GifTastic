@@ -1,0 +1,37 @@
+#userInput {
+    width: 300px;
+    border: solid 1px gray;
+    border-radius: 3px;
+    padding: 5px 10px;
+    margin-right: 6px;
+}
+
+.button {
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+.gifs {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-image: url(../images/color_bars.jpg);
+    background-size: 100% 100%;
+
+}
+
+h1 {
+    padding-top: 50px;
+    font-size: 80px;
+}
+
+h4 {
+    padding-bottom: 20px;
+}
+
+form {
+    padding-bottom: 50px;
+}
